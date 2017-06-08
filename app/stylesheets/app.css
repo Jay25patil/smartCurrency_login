@@ -50,3 +50,13 @@ h3 {
 .hint {
   color: #666;
 }
+
+.centralignHeader {
+  color: #ffffff;
+  font-size: 70px;
+}
+
+.imagesize {
+  width: 100%;
+  height: 100%
+}
